@@ -1,0 +1,15 @@
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\bin\Debug\net10.0\CampusNet.exe
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\bin\Debug\net10.0\CampusNet.deps.json
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\bin\Debug\net10.0\CampusNet.runtimeconfig.json
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\bin\Debug\net10.0\CampusNet.dll
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\bin\Debug\net10.0\CampusNet.pdb
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\obj\Debug\net10.0\CampusNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\obj\Debug\net10.0\CampusNet.AssemblyInfoInputs.cache
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\obj\Debug\net10.0\CampusNet.AssemblyInfo.cs
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\obj\Debug\net10.0\CampusNet.csproj.CoreCompileInputs.cache
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\obj\Debug\net10.0\CampusNet.sourcelink.json
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\obj\Debug\net10.0\CampusNet.dll
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\obj\Debug\net10.0\refint\CampusNet.dll
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\obj\Debug\net10.0\CampusNet.pdb
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\obj\Debug\net10.0\CampusNet.genruntimeconfig.cache
+C:\UniversidadIngenieria\ProgramacionIII\CampusNet\CampusNet\obj\Debug\net10.0\ref\CampusNet.dll

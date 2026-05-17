@@ -1,0 +1,122 @@
+# CampusNet
+
+Sistema de simulación de una red social académica dirigida utilizando grafos en C# bajo arquitectura MVC.
+
+
+---
+
+## Autor
+
+- Nombre: Ricardo Marín Herrera
+- Universidad: Universidad de Manizales
+- Programa: Ingeniería de Sistemas Virtual
+- Asignatura: Programación III
+- Proyecto: CampusNet
+
+
+
+## Descripción
+
+CampusNet representa una red social académica donde:
+
+- Cada vértice representa un usuario.
+- Cada arista dirigida representa una relación de seguimiento.
+- La relación no es recíproca necesariamente.
+
+Ejemplo:
+
+A → B significa que A sigue a B.
+
+El sistema permite:
+
+- Registrar usuarios.
+- Crear relaciones dirigidas.
+- Ejecutar recorridos BFS y DFS.
+- Detectar ciclos.
+- Consultar usuarios influyentes y activos.
+- Realizar operaciones CRUD.
+
+---
+
+# Arquitectura
+
+El proyecto implementa arquitectura MVC estricta.
+
+## Model
+
+Contiene:
+
+- Vertex
+- Edge
+- Graph
+
+Responsabilidades:
+
+- Gestión del grafo.
+- Lista de adyacencia.
+- BFS.
+- DFS.
+- CRUD.
+- Validaciones.
+- Detección de ciclos.
+
+---
+
+## View
+
+Contiene:
+
+- GraphView
+
+Responsabilidades:
+
+- Mostrar información en consola.
+- Imprimir recorridos.
+- Mostrar lista de adyacencia.
+- Mostrar resultados de consultas.
+
+---
+
+## Controller
+
+Contiene:
+
+- GraphController
+
+Responsabilidades:
+
+- Coordinar casos de uso.
+- Comunicación entre Model y View.
+- Flujo principal del programa.
+
+---
+
+# Tecnologías utilizadas
+
+- C#
+- .NET Console App
+- Arquitectura MVC
+- Grafos dirigidos
+- Git y GitHub
+
+---
+
+# Estructura del proyecto
+
+```text
+CampusNet/
+│
+├── Controllers/
+│   └── GraphController.cs
+│
+├── Models/
+│   ├── Vertex.cs
+│   ├── Edge.cs
+│   └── Graph.cs
+│
+├── Views/
+│   └── GraphView.cs
+│
+├── Program.cs
+│
+└── README.md
